@@ -1,0 +1,22 @@
+.inputs-block{
+    width: 90%;
+    margin: auto;
+}
+
+.inputs-block .buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 25vw;
+    margin-right: 25vw;
+    margin-top: 20px;
+}
+
+.text-input{
+    width: 100%;
+    margin-top: 20px;
+}
+
+canvas{
+    width: 100%
+}
